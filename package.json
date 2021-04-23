@@ -1,5 +1,6 @@
 {
   "name": "jona-dc",
+  "description": "A web app with a guess game",
   "version": "0.1.0",
   "private": true,
   "scripts": {
