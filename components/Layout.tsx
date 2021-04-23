@@ -7,8 +7,9 @@ const Layout: FC = ({ children }) => (
 		</header>
 		<main className="p-2" style={{
 			minHeight: "100vh",
-			maxWidth: 400,
-			margin: "0 auto"
+			display: "flex",
+			alignItems: "center",
+			justifyContent: "center"
 		}}>{children}</main>
 		<footer className="bg-secondary text-white pl-1">&copy; 2021</footer>
 	</div>
