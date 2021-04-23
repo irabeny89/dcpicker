@@ -1,4 +1,4 @@
-import Image from "next/Image"
+import Image from "next/image"
 import { useReducer, SyntheticEvent } from "react"
 import { Button, Badge, Modal } from "react-bootstrap"
 import localData from "./../data/local-data"
