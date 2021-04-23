@@ -6,9 +6,9 @@ const localData = {
 			title: "Instructions",
 			inGameTitle: "Pick a card",
 			p1:
-				"Hi, play the game below and try to get at least 6 points out of 10 chances.",
+				"Hi, a DC character is hidden behind the cards below. Can you find it?",
 			p2:
-				"Pick a card and you score 1 point when you find the DC character hidden behind one of the cards only.",
+				"Out of 10 chances; 6 or more correct picks wins. 1 point for every correct pick. Good luck!",
 		},
 		chanceLimit: 10,
 		passLimit: 6,

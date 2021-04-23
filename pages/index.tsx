@@ -84,7 +84,7 @@ const Home = () => {
 					</Badge>
 				</div>
 				<div className="bg-secondary rounded p-2 my-2 h3">
-					<Badge pill variant="danger">
+					<Badge pill variant="dark">
 						{chance}
 					</Badge>{" "}
 					Chances
