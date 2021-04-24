@@ -120,7 +120,7 @@ const Home = () => {
 								/>
 							</div>
 						) : (
-							<div>
+							<div style={{backgroundColor: "red", margin: "1rem", height: 120}}>
 								<Image
 									src={cardImage.src}
 									width={cardImage.width}
@@ -141,7 +141,7 @@ const Home = () => {
 								/>
 							</div>
 						) : (
-							<div>
+							<div style={{backgroundColor: "red", margin: "1rem", height: 120}}>
 								<Image
 									src={cardImage.src}
 									width={cardImage.width}
@@ -164,7 +164,7 @@ const Home = () => {
 								/>
 							</div>
 						) : (
-							<div>
+							<div style={{backgroundColor: "red", margin: "1rem", height: 120}}>
 								<Image
 									src={cardImage.src}
 									width={cardImage.width}
@@ -185,7 +185,7 @@ const Home = () => {
 								/>
 							</div>
 						) : (
-							<div>
+							<div style={{backgroundColor: "red", margin: "1rem", height: 120}}>
 								<Image
 									src={cardImage.src}
 									width={cardImage.width}
